@@ -70,3 +70,7 @@ if (isset($_POST['registrar']))
   
 }
 ?>
+
+<?php
+ob_end_flush();
+?>
