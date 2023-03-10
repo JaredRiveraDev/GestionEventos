@@ -1,4 +1,9 @@
 # GestionEventos
+Integrantes:
+-Josué Jared Rivera Moreno
+-Erik Humberto Cerecero Tellez
+-Axel Mendoza Lucio
+
 este es un priyecto de gestion de eventos, donde las personas pueden agendar citas para sus eventos y el administrador puede ver las citas que se han registrado.
 
 Pantallas:
