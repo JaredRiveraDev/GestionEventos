@@ -4,7 +4,7 @@ Integrantes:
 -Erik Humberto Cerecero Tellez
 -Axel Mendoza Lucio
 
-este es un priyecto de gestion de eventos, donde las personas pueden agendar citas para sus eventos y el administrador puede ver las citas que se han registrado.
+este es un proyecto de gestion de eventos, donde las personas pueden agendar citas para sus eventos y el administrador puede ver las citas que se han registrado.
 
 Pantallas:
 Este es el login de la aplicación es el que valida a los usuarios entrar a ella
